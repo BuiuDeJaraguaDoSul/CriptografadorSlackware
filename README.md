@@ -1,0 +1,2 @@
+# CriptografadorSlackware
+Criptografador para Slackware
